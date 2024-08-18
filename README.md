@@ -13,7 +13,7 @@ Or edit the filename in `Dockerfile`.
 CMD ["python", "main.py"]
 ```
 
-Run
+Run.
 
 ```bash
 ./run.sh
