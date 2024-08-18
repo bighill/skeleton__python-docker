@@ -5,7 +5,7 @@
 
 ## Usage
 
-Write/put code here with `main.py` as the entrypoint
+Write/put code here with `main.py` as the entrypoint.
 
 Or edit the filename in `Dockerfile`.
 
